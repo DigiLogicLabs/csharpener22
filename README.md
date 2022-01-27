@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/connersoligny">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -64,3 +64,11 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+> I do not restrict myself to the certain technologies and am always looking for a challenge
+
+- C# API's and EF Core ORM
+- Angular, React, Next.js
+- Azure SAAS architecture
+- UE4 and UE5 C++
+- Adobe Creative Cloud Products
+- Ableton Live 11
