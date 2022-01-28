@@ -51,18 +51,16 @@
 ---
 
 ### About Me :
-> I am a Full Stack Developer from MN.
+> I am a Full Stack Developer from MN, USA.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building commercial web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I build systems for fun community projects.
+- :seedling: Exploring and discovering new technologies from game 3D environments to digital audio workspaces (DAW).\
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-> I do not restrict myself to the certain technologies and am always looking for a challenge
+> I do not restrict myself to the certain technologies and am always looking for a good challenge
 
 - C# API's and EF Core ORM
 - Angular, React, Next.js
