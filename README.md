@@ -11,9 +11,6 @@
     <img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=web&logoColor=white" alt="TPC Web"/>
   </a>
 </div>
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
